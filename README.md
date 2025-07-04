@@ -1,2 +1,2 @@
 # apnacollege-demo
-Author - Rehmat Ullah
+Author - Rehmat (Apna College)
